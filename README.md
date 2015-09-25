@@ -8,6 +8,8 @@ are sorted by the manufacturer or part type as applicable.
 
 * Linear Tech
   * LTC1440
+* Micrel
+  * MIC5891
 * Texas Instruments
   * TLC5940
   * TLC59711
